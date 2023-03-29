@@ -1,3 +1,5 @@
+// References: Fundamentals of Computer Algorithms, 2nd Edition
+
 import java.util.Scanner;
 
 public class NQueensInJava {
